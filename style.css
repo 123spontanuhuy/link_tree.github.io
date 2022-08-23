@@ -9,12 +9,15 @@ html{
 .indexcontain{
     max-width: 500px;
     margin: auto;
-    background: red;
+    
     background-image: url("Logo.jpg") ;
     background-position: center;
     background-size: cover;
     height: 100vh;
     background-attachment: fixed;
+    
+    background: linear-gradient(to right, rgba(57, 106, 252, 0.5), rgba(41, 72, 255, 0.2));
+
 }
 .containervalo{
     max-width: 500px;
