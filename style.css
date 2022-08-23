@@ -10,7 +10,7 @@ html{
     max-width: 500px;
     margin: auto;
     background: red;
-    background-image: url("logo.jpg") ;
+    background-image: url("Logo.jpg") ;
     background-position: center;
     background-size: cover;
     height: 100vh;
