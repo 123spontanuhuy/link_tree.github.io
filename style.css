@@ -6,7 +6,7 @@ html{
     font-family: 'Bebas Neue', cursive;
 }
 
-.container{
+.indexcontain{
     max-width: 500px;
     margin: auto;
     background: red;
