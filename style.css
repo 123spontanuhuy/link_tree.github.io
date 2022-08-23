@@ -112,3 +112,15 @@ html{
     color: white;
     font-size: 15px;
 }
+@media screen and (min-width:1200px) and (max-width: 1300px) 
+{
+    .container {
+        display: none;
+}
+        
+    .indexcontain {
+        display: none;
+    }
+    
+    
+}
