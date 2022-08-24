@@ -58,7 +58,7 @@ html{
 }
 .link{
     padding: 20px;
-   
+    align-items : center;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -75,6 +75,7 @@ html{
     padding: 10px;
     text-transform: uppercase;
     font-weight: 500;
+    max-width:500px
 }
 
 .link > h1 {
